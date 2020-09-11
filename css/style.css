@@ -70,14 +70,14 @@ table {
 	border-bottom:1px solid #49ABFC;
 }
 
-#cdr {margin-left:980px;
+#cdr {margin-left:1250px;
     margin-top: 90px;
 }
 
 #cdr_c{position:absolute; 
 	width:250px;
 	text-align:left;
-    margin-left:860px;
+    margin-left:1250px;
     margin-top:130px;
     border-right:1px solid #49ABFC;
 	border-bottom:1px solid #49ABFC;}
