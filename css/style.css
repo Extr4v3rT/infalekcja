@@ -58,14 +58,14 @@ table {
 .opisy{font-size:12px;
 	  padding:10px;
 	  }			  
-#plt {margin-left:600px;
+#plt {margin-left:550px;
     margin-top:-20px;   
 }
 #plt_c {
 	position:absolute; 
 	width:250px;
 	text-align:left;
-    margin-left:60px;
+    margin-left:300px;
     border-left:1px solid #49ABFC;
 	border-bottom:1px solid #49ABFC;
 }
