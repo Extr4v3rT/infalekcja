@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /grafika
+Disallow: /plyta.html
+
+Sitemap: https://extr4v3rt.github.io/infalekcja/
